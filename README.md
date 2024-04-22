@@ -1,4 +1,4 @@
-# How to Run]
+# How to Run
 
 ## For Get:
 Change the link to /cats/:id
